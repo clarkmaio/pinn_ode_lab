@@ -2,3 +2,4 @@ numpy
 pandas
 holoviews
 torch
+panel
